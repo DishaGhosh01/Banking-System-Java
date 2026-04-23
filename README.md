@@ -16,4 +16,4 @@
   ## Learning:
     - Object Oriented programming.
     - How to use ArrayList.
-    - bUILDING A real-world console application;
+    - Building a real-world console application;
